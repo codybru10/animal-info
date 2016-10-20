@@ -1,0 +1,8 @@
+.img-size {
+  max-height: 200px;
+}
+
+.snakes, .turtles, .dogs {
+  display: none;
+  margin-top: 50px;
+}
